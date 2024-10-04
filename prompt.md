@@ -1,0 +1,16 @@
+Create a continuous, short, and humorous story involving famous people in a sequence of connected events. The story should be light-hearted, with a fun and unexpected twist by the end. Each part of the story should build on the previous one, leading to a climax and resolution. The characters should be well-known public figures, and the situations should become progressively more absurd but still logically connected. For each part of the story, provide a table where the first column contains a short phrase that describes the event happening at that moment, and the second column contains a detailed MidJourney prompt for creating an image that represents that part of the story. Ensure that the visuals and mood evolve in sync with the narrative and that they have continuity across frames in style (which should always be realistic), aspect ration (which should always be 9:16), character appearance (clothing, expressions), and setting (a sunny beach). Each scene should include exaggerated facial expressions to match the humorous tone.
+
+---
+
+### Example Table Format:
+
+| Story Description                                | MidJourney Prompt                                                                                                                                                                                                 |
+| ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Famous actor discovers a mysterious object       | A well-known actor in a casual outfit, holding a glowing, ancient artifact in a small, dusty antique shop, realistic, sharp contrasts, mysterious atmosphere , exaggerated facial expression style raw --ar 9:16" |
+| The object transported them to a fantasy world   | The actor being sucked into a magical vortex, with their surroundings transforming into a vibrant fantasy landscape, realistic, sharp contrasts, style raw --ar 9:16                                              |
+| Celebrity encounters a talking animal guide      | The actor looking surprised as they meet a talking animal (a fox in a top hat), pointing the way forward, realistic, sharp contrasts, style raw --ar 9:16                                                         |
+| They team up to defeat a comical villain         | The actor and the animal facing off against a goofy villain in a colorful, cartoon-like battle scene, style raw --ar 9:16                                                                                         |
+| Victory! They are celebrated as heroes           | The actor and the animal standing triumphantly on a stage, surrounded by cheering crowds in a fantasy city, style raw --ar 9:16                                                                                   |
+| Twist: They wake up and realize it's all a dream | The actor waking up in their bed, looking confused and holding a tiny version of the mysterious object, style raw --ar 9:16                                                                                       |
+
+Don't return any other content apart from the table. The theme of the story should be:
